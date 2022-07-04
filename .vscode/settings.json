@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "sched.h": "c",
+        "system.h": "c",
+        "initializer_list": "c"
+    }
+}
